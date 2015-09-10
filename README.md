@@ -45,7 +45,7 @@
 
 |   姓名   |   简介    |   联系方式   |
 |----------|-----------|--------------|
-|   浦文辉   |   Android Framework工程师，任职于深圳腾讯。   |    QQ : 279291014       |
+|   蒲文辉   |   Android Framework工程师，任职于深圳腾讯。   |   [个人主页](http://www.puwenhui.com)     kaelpu@puwenhui.com      |
 |   缪鸿炜   |   Android 工程师，任职于杭州挖财。   |    13122224550       |
 |   王圣如   |    Android工程师，杭州买好车。     | QQ: 907108236   |
 |   杨泽毓   |辽宁大连,创业中|[博客](https://myoungs.cn),QQ&Mail:young_4you@qq.com|
